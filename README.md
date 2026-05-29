@@ -2,17 +2,6 @@
 
 Data Analyst with 3.8+ years of experience in SQL, Power BI, Tableau and Python.
 
-## Skills
-
-- SQL
-- Power BI
-- Tableau
-- Python
-- MySQL
-- Databricks
-- Azure
-- Snowflake
-
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/shivkumarpujari/
