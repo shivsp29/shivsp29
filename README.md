@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shivkumar Pujari 👋
 
-<!--
-**shivsp29/shivsp29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with 3.8+ years of experience in SQL, Power BI, Tableau and Python.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Power BI
+- Tableau
+- Python
+- MySQL
+- Databricks
+- Azure
+- Snowflake
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shivkumarpujari/
+- Tableau Public: https://public.tableau.com/app/profile/shivkumar.pujari/viz/
+- Email: shivkumar.pujari56@gmail.com
