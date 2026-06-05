@@ -1,6 +1,6 @@
 # Hi, I'm Shivkumar Pujari 👋
 
-Data Analyst with 3.8+ years of experience in SQL, Power BI, Tableau and Python.
+Data Analyst with 3+ years of experience in SQL, Power BI, Tableau & Python.
 
 ## Connect With Me
 
