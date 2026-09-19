@@ -1,6 +1,6 @@
 # Hi, I'm Shivkumar Pujari 👋
 
-📊 Data Analyst with 3.9+ years of experience in SQL, Power BI, Tableau and data visualization.  
+📊 Data Analyst with 4 years of experience in SQL, Power BI, Tableau and data visualization.  
 🚀 Currently upskilling in Python, Databricks, Azure, and Data Engineering concepts.  
 💡 Passionate about transforming raw data into actionable business insights and building efficient data solutions.
 
